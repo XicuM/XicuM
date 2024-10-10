@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @XicuM
-- 📫 Webpage: xicu.info
+- 📫 Webpage: [xicu.info](xicu.info)
